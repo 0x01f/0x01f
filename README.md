@@ -1,54 +1,55 @@
-# Привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Вячеслав
+# Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Вячеслав
 
-## Я frontend разработчик с 2021 года
+## Я Frontend разработчик с 2021 года
 
 Мой опыт включает создание как frontend, так и backend частей сервисов, а также реализацию клиент-серверного взаимодействия. Я специализируюсь на HTML5, CSS (SCSS), JavaScript и React, используя такие инструменты, как Git, Figma и Gulp для удобства работы. Кроме того, я занимался разработкой и поддержкой проектов на различных CMS, таких как Tilda, TYPO3, Joomla, ModX, OpenCart и WordPress. В последнем проекте в Юнисендере я работал как Junior backend разработчик, где внедрял новый функционал, модифицировал шаблоны на CMS WordPress и разрабатывал плагины, используя JavaScript, CSS, HTML и PHP.
 
-- 🌍  Базируюсь в Москве
-- 🖥️  Мой профиль на [GitHub](http://github.com/0x01f)
-- ✉️  Мой контакт в Telegram: [Telegram](https://t.me/oxo1f)
+- 🌍 Базируюсь в Москве
+- 🖥️ Мой профиль на [GitHub](http://github.com/0x01f)
+- ✉️ Мой контакт в Telegram: [Telegram](https://t.me/oxo1f)
+- 🧠 Изучаю React и Next.JS
 
-### Навыки и инструменты
+### Skills
 
 #### Ядро:
-- ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg){ width=36 height=36 } Git
-- ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg){ width=36 height=36 } JavaScript
-- ![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg){ width=36 height=36 } PHP
-- ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg){ width=36 height=36 } Python
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /> Git
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> JavaScript
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /> PHP
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /> Python
 
 #### Редакторы:
-- ![VS Code](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg){ width=36 height=36 } Visual Studio Code
-- ![Sublime Text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg){ width=36 height=36 } Sublime Text
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /> Visual Studio Code
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /> Sublime Text
 
 #### Фронтенд:
-- ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg){ width=36 height=36 } HTML5
-- ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg){ width=36 height=36 } CSS3
-- ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg){ width=36 height=36 } React
-- ![jQuery](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg){ width=36 height=36 } jQuery
-- ![Sass](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg){ width=36 height=36 } Sass
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /> HTML5
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /> CSS3
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /> React
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /> jQuery
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /> Sass
 
 #### Backend и базы данных:
-- ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg){ width=36 height=36 } Node.js
-- ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg){ width=36 height=36 } MongoDB
-- ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg){ width=36 height=36 } MySQL
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /> Node.js
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /> MongoDB
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /> MySQL
 
 #### Инструменты и дизайн:
-- ![Photoshop](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg){ width=36 height=36 } Photoshop
-- ![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg){ width=36 height=36 } Figma
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /> Photoshop
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /> Figma
 
 #### Прочее:
-- ![Wordpress](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg){ width=36 height=36 } Wordpress
-- ![MacOS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg){ width=36 height=36 } MacOS
-- ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg){ width=36 height=36 } Linux
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /> Wordpress
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /> MacOS
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /> Linux
 
-### Социальные сети
+### Socials
 
 <p align="left">
     <a href="https://www.github.com/0x01f" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
         </picture>
     </a>
 </p>
@@ -71,4 +72,6 @@
 
 #### CodeWars
 
-[![CodeWars Badge](https://www.codewars.com/users/nulledX/badges/large)](https://www.codewars.com/users/nulledX)
+<a href="https://www.codewars.com/users/nulledX">
+    <img src="https://www.codewars.com/users/nulledX/badges/large" alt="CodeWars Badge" />
+</a>
