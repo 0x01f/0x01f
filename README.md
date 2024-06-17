@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100%" width="600" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+  <img width="600" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="working"/>
 </div>
 
 ###
@@ -34,12 +34,6 @@
 - 🖥️ Мой профиль на [GitHub](http://github.com/0x01f)
 - ✉️ Мой контакт в Telegram: [Telegram](https://t.me/oxo1f)
 - 🧠 Изучаю React и Next.JS
-
-###
-
-<p align="center">
- <img width="600" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="working"/>
-</p>
 
 ###
 
