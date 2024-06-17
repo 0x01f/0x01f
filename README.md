@@ -13,50 +13,54 @@
 
 ### Навыки
 
-#### Ядро:
-<div style="display: inline-block;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  #### Ядро:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</div>
+  </div>
 
-#### Редакторы:
-<div style="display: inline-block;">
+  #### Редакторы:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" />
-</div>
+  </div>
 
-#### Фронтенд:
-<div style="display: inline-block;">
+  #### Фронтенд:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-</div>
+  </div>
 
-#### Backend и базы данных:
-<div style="display: inline-block;">
+  #### Backend и базы данных:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-</div>
+  </div>
 
-#### Инструменты и дизайн:
-<div style="display: inline-block;">
+  #### Инструменты и дизайн:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-</div>
+  </div>
 
-#### Прочее:
-<div style="display: inline-block;">
+  #### Прочее:
+  <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  </div>
+
 </div>
 
-### Socials
+### Ссылки
 
 <p align="left">
     <a href="https://www.github.com/0x01f" target="_blank" rel="noreferrer">
@@ -78,10 +82,6 @@
 
 <a href="http://www.github.com/0x01f">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x01f&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/0x01f">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x01f&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 #### CodeWars
