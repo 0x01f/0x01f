@@ -38,7 +38,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="working"/>
 </p>
 
 ###
