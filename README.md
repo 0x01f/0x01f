@@ -1,18 +1,15 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Вячеслав
+# Приветствую, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Вячеслав
 
-## Являюсь frontend разработчиков с 2021 года
+## Являюсь frontend разработчиком с 2021 года
 
-Мой опыт включает создание как frontend, так и backend частей сервисов, а также реализацию клиент-серверного взаимодействия. Я специализируюсь на HTML5, CSS (SCSS), JavaScript и React, используя такие инструменты, как Git, Figma и Gulp для удобства работы. Кроме того, я занимался разработкой и поддержкой проектов на различных CMS, таких как Tilda, TYPO3, Joomla, ModX, OpenCart и WordPress. В последнем проекте в юнисендере я работал как Junior backend разработчик, где внедрял новый функционал, модифицировал шаблоны на CMS WordPress и разрабатывал плагины, используя JavaScript, CSS, HTML и PHP.
+Мой опыт включает создание как frontend, так и backend частей сервисов, а также реализацию клиент-серверного взаимодействия. Я специализируюсь на HTML5, CSS (SCSS), JavaScript и React, используя такие инструменты, как Git, Figma и Gulp для удобства работы. Кроме того, я занимался разработкой и поддержкой проектов на различных CMS, таких как Tilda, TYPO3, Joomla, ModX, OpenCart и WordPress. В последнем проекте в Юнисендере я работал как Junior backend разработчик, где внедрял новый функционал, модифицировал шаблоны на CMS WordPress и разрабатывал плагины, используя JavaScript, CSS, HTML и PHP.
 
 - 🌍  Базируюсь в Москве
-- 🖥️  Мой профиль, можете посмотреть [github](http://github.com/0x01f)
-- ✉️  Мои контакт, Telegram: [Telegram](https://t.me/oxo1f)
-- 🧠  Изучаю React, Next.JS
+- 🖥️  Мой профиль на [GitHub](http://github.com/0x01f)
+- ✉️  Мой контакт в Telegram: [Telegram](https://t.me/oxo1f)
+- 🧠  Изучаю React и Next.JS
 
 ### Skills
-
-
-### Навыки и инструменты
 
 #### Ядро:
 - ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) Git
@@ -59,7 +56,7 @@
 
 ### Бейджи
 
-#### Статистика Github
+#### Статистика GitHub
 
 <a href="http://www.github.com/0x01f">
     <img src="https://github-readme-stats.vercel.app/api?username=0x01f&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="0x01f's GitHub stats" />
@@ -73,8 +70,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x01f&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-#### Codewars
+#### CodeWars
 
-### CodeWars
-
-[![CodeWars Badge](https://www.codewars.com/users/nulledX/badges/large)](https://www.codewars.com/users/nulledX)
+<a href="https://www.codewars.com/users/nulledX">
+    <img src="https://www.codewars.com/users/nulledX/badges/large" alt="CodeWars Badge" />
+</a>
