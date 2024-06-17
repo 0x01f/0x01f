@@ -37,6 +37,11 @@
 
 ###
 
+<h3 align="left">Верстка сайтов, по макету из фигмы (частичное использование Pixel Perfect)</h3>
+<a href="[https://med.sekotel.ru/templates/](https://med.sekotel.ru/templates/)](https://med.sekotel.ru/templates/)" target="_blank"></a>
+<a href="[https://els.sekotel.ru/templates/](https://els.sekotel.ru/templates/)](https://els.sekotel.ru/templates/)" target="_blank"></a>
+<a href="[https://sekotel.ru/]()" target="_blank"></a>
+
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
