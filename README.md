@@ -1,93 +1,187 @@
-<h1 align="center">Вячеслав | Начинающий DevOps-инженер</h1>
+<h1 align="center">Vyacheslav</h1>
+<h3 align="center">Lead Automation Engineer | Industrial Software Engineer | PLC • SCADA • HMI • Python</h3>
 
+<p align="center">
+  <a href="https://t.me/0x01f">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/0x01f">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x01f.0x01f"/>
+</p>
+
+---
+
+# 👋 About Me
+
+I'm a **Lead Automation Engineer** with **6+ years** of experience in industrial automation, PLC programming, SCADA development and HMI engineering.
+
+My professional background combines industrial automation with software development. Alongside PLC and SCADA systems, I develop Python applications, automation tools and web solutions for industrial environments.
+
+Currently I'm preparing for relocation and expanding my expertise in modern European automation technologies.
+
+---
+
+## 💼 Professional Experience
+
+- 🔹 6+ years in Industrial Automation
+- 🔹 Lead Automation Engineer
+- 🔹 Automation of district heating systems
+- 🔹 Previously worked on marine automation projects
+- 🔹 PLC software development
+- 🔹 SCADA engineering
+- 🔹 HMI development
+- 🔹 Commissioning & startup support
+- 🔹 Industrial communication systems
+
+---
+
+# ⚙️ Industrial Automation Stack
+
+### PLC
+
+- Segnetics
+- OWEN
+- Siemens
+- Schneider Electric
+- Pixel
+- Systeme HD
+
+### IEC 61131-3
+
+- Structured Text (ST)
+- Function Block Diagram (FBD)
+- Continuous Function Chart (CFC)
+- Sequential Function Chart (SFC)
+
+### SCADA
+
+- MasterSCADA 4D
+- Rapid SCADA
+- Simple SCADA
+- Schneider Electric WorkStation
+
+### HMI
+
+- Weintek
+- EKF
+- Industrial Operator Panels
+
+### Industrial Protocols
+
+- Modbus RTU
+- Modbus TCP
+- OPC DA
+- BACnet
+
+---
+
+# 💻 Software Development
+
+### Python
+
+- Automation Scripts
+- Selenium
+- Telegram Bots
+- Industrial Data Collection
+- Controller Integration
+
+### Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- PHP
+- WordPress
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- Docker
+- Linux
+
+---
+
+# 🚀 Current Focus
+
+Currently improving my expertise in:
+
+- Siemens TIA Portal
+- Siemens S7-1200 / S7-1500
+- Beckhoff TwinCAT 3
+- OPC UA
+- Industrial Networking
+- Technical English (towards B2)
+
+---
+
+# 🎓 Education
+
+**RTU MIREA**
+
+Bachelor's Degree
+
+Automation of Technological Processes and Production
+
+---
+
+**RTU MIREA**
+
+Master's Degree
+
+Automation of Technological Processes and Production
+
+---
+
+# 🌍 Languages
+
+🇷🇺 Russian — Native
+
+🇬🇧 English — Intermediate (actively improving towards B2)
+
+---
+
+# 🎯 Career Interests
+
+I'm interested in international projects related to:
+
+- Industrial Automation
+- PLC Programming
+- SCADA Development
+- HMI Engineering
+- Industrial Software
+- Python Automation
+- OT Systems
+- Industrial Digitalization
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img width="600" src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="working"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=0x01f&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x01f&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://t.me/0x01f" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&" />
-</div>
+### Thanks for visiting my profile 👋
 
-## 👨‍💻 Обо мне
+Industrial Automation • PLC • SCADA • Python
 
-Я Вячеслав, начинающий **DevOps-инженер** из Москвы. С 2021 года работал фронтенд- и бэкенд-разработчиком, создавая веб-приложения и плагины для CMS (WordPress) с использованием JavaScript, Python, PHP и PostgreSQL. Сейчас я перехожу в DevOps, чтобы автоматизировать процессы разработки, упрощать деплой и управлять инфраструктурой.
-
-**Мой опыт**:
-- Разработка веб-приложений (JavaScript, HTML, CSS, React).
-- Автоматизация задач с помощью Python и Bash.
-- Работа с CMS (WordPress, Tilda) и базами данных (PostgreSQL).
-- В Unisender: создание WordPress-плагинов, интеграция API, автоматизация задач на Python.
-
-**Сейчас изучаю**:
-- **Docker** для контейнеризации приложений.
-- **Linux** для настройки серверов и написания Bash-скриптов.
-- **CI/CD** (GitLab CI) для автоматизации деплоя.
-- **AWS** (EC2, S3) для работы с облаками.
-- **Kubernetes** для оркестрации контейнеров.
-
-Моя цель — стать DevOps-инженером, который помогает командам быстрее и надежнее выпускать продукты. Я активно создаю проекты для портфолио, чтобы закрепить навыки.
-
-- 🌍 Базируюсь в Москве  
-- 🖥️ GitHub: [github.com/0x01f](http://github.com/0x01f)  
-- ✉️ Telegram: [t.me/oxo1f](https://t.me/oxo1f)  
-
-## 📝 Публикации
-- [Моя статья о разработке на Habr](https://habr.com/ru/companies/samsung/articles/422641/)
-
-## 🛠 Навыки
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-</div>
-
-## 🚀 Мои проекты
-
-### Pet-проекты (простые)
-1. **Python Disk Monitor**: Скрипт на Python, который проверяет свободное место на диске и отправляет уведомления в Telegram, если оно меньше 10%.  
-   - Используемые технологии: Python, `psutil`, `python-telegram-bot`.
-2. **Dockerized Flask App**: Упаковка простого Flask-приложения в Docker-контейнер и запуск его локально.  
-   - Используемые технологии: Docker, Python, Flask.
-3. **Bash Backup Script**: Bash-скрипт для автоматического резервного копирования директории с логированием.  
-   - Используемые технологии: Bash, Linux, `cron`.
-
-### Проекты 
-1. **GitLab CI Pipeline**: Настройка CI/CD-пайплайна для автоматического тестирования (pytest) и деплоя Python-приложения в Docker.  
-   - Используемые технологии: GitLab CI, Docker, Python, pytest.
-2. **Kubernetes Web App**: Развертывание Flask-приложения в Minikube с помощью YAML-манифестов (Pod, Service).  
-   - Используемые технологии: Kubernetes, Minikube, Docker.
-3. **AWS EC2 Deployment**: Настройка EC2-инстанса на AWS, установка Nginx и деплой Flask-приложения.  
-   - Используемые технологии: AWS EC2, Nginx, Python.
-
-## 🔥 Моя статистика
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0x01f&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x01f&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x01f&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
