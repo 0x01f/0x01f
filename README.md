@@ -177,4 +177,3 @@ Automation of Technological Processes and Production
 *"Engineering reliable industrial software and automation systems."*
 
 </p>
-````
