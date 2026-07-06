@@ -170,24 +170,6 @@ Automation of Technological Processes and Production
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0x01f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x01f&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x01f&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 <p align="center">
 
 ### Industrial Automation • PLC • SCADA • Python
